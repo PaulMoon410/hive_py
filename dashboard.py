@@ -32,7 +32,7 @@ DEFAULT_BOT_JOBS = [
 
 DEFAULT_LAUNCH_SETTINGS = {
     "wait_for_cycle": True,
-    "cycle_timeout_seconds": 300,
+    "cycle_timeout_seconds": 0,
     "stagger_seconds_max": 10,
     "terminal_mode": "inline",
     "console_cols": 180,
