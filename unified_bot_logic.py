@@ -759,33 +759,15 @@ def _attempt_token_micro_buy(account_name, token, active_key, nodes, ask_price, 
         print(f"[{bot_label}] {token} micro buy skipped: market ask unavailable.")
         return False
 
-    if support_sell_price <= 0:
-        print(f"[{bot_label}] {token} micro buy skipped: no profitable sell support quote.")
-        _record_micro_buy_attempt(token, 0.0, 0.0, TOKEN_MICRO_BUY_QTY, "skipped", txid=None)
-        return False
-
-    # Compute this order's required sell price (what we need to sell at to profit)
-    max_buy_price = round(float(support_sell_price) / (1 + MICRO_BUY_MIN_PROFIT_RATIO), 8)
-    required_sell_price = round(float(max_buy_price) * (1 + MICRO_BUY_MIN_PROFIT_RATIO), 8)
-    
-    if max_buy_price <= 0:
-        print(f"[{bot_label}] {token} micro buy skipped: computed max buy price invalid ({max_buy_price}).")
-        _record_micro_buy_attempt(token, 0.0, 0.0, TOKEN_MICRO_BUY_QTY, "skipped", txid=None)
-        return False
-
-    if ask_price > max_buy_price:
-        print(
-            f"[{bot_label}] {token} micro buy skipped: ask {ask_price:.8f} exceeds "
-            f"max profitable buy {max_buy_price:.8f} (sell_support={float(support_sell_price):.8f}, "
-            f"required_sell={required_sell_price:.8f})."
-        )
-        _record_micro_buy_attempt(token, 0.0, required_sell_price, TOKEN_MICRO_BUY_QTY, "skipped", txid=None)
+    # Always place a micro-buy at the current ask price, regardless of profit, for all non-DOGE tokens.
+    if token == "SWAP.DOGE":
+        print(f"[{bot_label}] DOGE micro buy skipped: DOGE bot uses separate logic.")
         return False
 
     placed = place_order(
         account_name,
         token,
-        max_buy_price,
+        ask_price,
         TOKEN_MICRO_BUY_QTY,
         order_type="buy",
         active_key=active_key,
@@ -794,13 +776,13 @@ def _attempt_token_micro_buy(account_name, token, active_key, nodes, ask_price, 
     )
     if placed:
         print(
-            f"[{bot_label}] {token} guarded micro buy submitted: qty={TOKEN_MICRO_BUY_QTY:.8f} "
-            f"at {max_buy_price:.8f} (required_sell={required_sell_price:.8f} to avoid loss, txid={str(placed)[-16:] if placed else 'unknown'})"
+            f"[{bot_label}] {token} forced micro buy submitted: qty={TOKEN_MICRO_BUY_QTY:.8f} "
+            f"at {ask_price:.8f} (txid={str(placed)[-16:] if placed else 'unknown'})"
         )
-        _record_micro_buy_attempt(token, max_buy_price, required_sell_price, TOKEN_MICRO_BUY_QTY, "placed", txid=placed)
+        _record_micro_buy_attempt(token, ask_price, 0.0, TOKEN_MICRO_BUY_QTY, "placed", txid=placed)
     else:
-        print(f"[{bot_label}] {token} micro buy skipped/failed.")
-        _record_micro_buy_attempt(token, max_buy_price, required_sell_price, TOKEN_MICRO_BUY_QTY, "skipped", txid=None)
+        print(f"[{bot_label}] {token} forced micro buy skipped/failed.")
+        _record_micro_buy_attempt(token, ask_price, 0.0, TOKEN_MICRO_BUY_QTY, "skipped", txid=None)
     return bool(placed)
 
 
