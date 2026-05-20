@@ -78,8 +78,8 @@ from dotenv import load_dotenv
 
 load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
 # Hive account details
-HIVE_ACCOUNT = os.environ.get("HIVE_ACCOUNT", "peakecoin.bnb")
-HIVE_ACTIVE_KEY = os.environ.get("HIVE_ACTIVE_KEY", "5JgXLzFB8fsH64WPWD9fzC4sJQyxSXhn4ykqXrakCnJaSfDjNuL")
+HIVE_ACCOUNT = os.environ.get("HIVE_ACCOUNT_BNB", "peakecoin.bnb")
+HIVE_ACTIVE_KEY = os.environ.get("HIVE_ACTIVE_KEY_BNB", "5JgXLzFB8fsH64WPWD9fzC4sJQyxSXhn4ykqXrakCnJaSfDjNuL")
 HIVE_NODES = ["https://api.hive.blog", "https://anyx.io"]
 
 # Define the token symbol for this bot

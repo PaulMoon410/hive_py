@@ -69,8 +69,8 @@ from dotenv import load_dotenv
 
 load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
 # Hive account details
-HIVE_ACCOUNT = os.environ.get("HIVE_ACCOUNT", "peakecoin")
-HIVE_ACTIVE_KEY = os.environ.get("HIVE_ACTIVE_KEY", "5JmdCunm6rED9u2XWgGXbthdz3VFdkeALjFyfZaS78K7havZ5kG")
+HIVE_ACCOUNT = os.environ.get("HIVE_ACCOUNT_HBD", "peakecoin")
+HIVE_ACTIVE_KEY = os.environ.get("HIVE_ACTIVE_KEY_HBD", "5JmdCunm6rED9u2XWgGXbthdz3VFdkeALjFyfZaS78K7havZ5kG")
 HIVE_NODES = ["https://api.hive.blog", "https://anyx.io"]
 TOKEN = "SWAP.HBD"
 DELAY = 1500

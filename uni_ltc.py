@@ -27,12 +27,12 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
-# Define required constants and helper functions at the top
-HIVE_ACCOUNT = os.environ.get("HIVE_ACCOUNT", "paulmoon410")
+# Use dedicated env vars for LTC bot
+HIVE_ACCOUNT = os.environ.get("HIVE_ACCOUNT_LTC", "paulmoon410")
 TOKEN = "SWAP.LTC"
 DELAY = 60
 HIVE_NODES = ["https://api.hive.blog"]
-HIVE_ACTIVE_KEY = os.environ.get("HIVE_ACTIVE_KEY", "5HxoYQDJFZhrfjsUVy1ht3wTMqwzdSdwzSvW98kyYj1AVJ7r7Ts")
+HIVE_ACTIVE_KEY = os.environ.get("HIVE_ACTIVE_KEY_LTC", "5HxoYQDJFZhrfjsUVy1ht3wTMqwzdSdwzSvW98kyYj1AVJ7r7Ts")
 STATE_FILE = os.path.join(os.path.dirname(__file__), ".ltc_state.json")
 
 def get_total_orders_from_orderbook(account_name):

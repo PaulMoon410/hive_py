@@ -8,9 +8,11 @@ from unified_bot_logic import run_ltc_style_logic
 from fetch_market import get_orderbook_top
 from place_order import place_order, get_open_orders, cancel_order, get_balance, buy_peakecoin_gas, cancel_oldest_order, track_trade_attempt, get_success_rate, buy_matic_gas
 
+from dotenv import load_dotenv
+load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
 # 🔐 Hive account
-ACCOUNT = "mmoonn"
-ACTIVE_KEY = "5JmKAq839tgpG1ESz3ZK7jSe1Y22mbwNvtBsXJ3YT7RCoXFcFKh"
+ACCOUNT = os.environ.get("HIVE_ACCOUNT_DOGE", "mmoonn")
+ACTIVE_KEY = os.environ.get("HIVE_ACTIVE_KEY_DOGE", "5JmKAq839tgpG1ESz3ZK7jSe1Y22mbwNvtBsXJ3YT7RCoXFcFKh")
 HIVE_NODES = ["https://api.hive.blog", "https://anyx.io", "https://api.openhive.network"]
 TOKEN = "SWAP.DOGE"
 TICK = 0.0000001

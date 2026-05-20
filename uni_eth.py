@@ -4,7 +4,7 @@ import time
 from bot_cycle_control import run_cycle_preflight
 from unified_bot_logic import run_ltc_style_logic
 
-HIVE_ACCOUNT = os.environ.get("HIVE_ACCOUNT", "dr-animation")
+HIVE_ACCOUNT = os.environ.get("HIVE_ACCOUNT_ETH", "dr-animation")
 TOKEN = "SWAP.ETH"
 DELAY = 60
 
@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 
 load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
 HIVE_NODES = ["https://api.hive.blog"]
-HIVE_ACTIVE_KEY = os.environ.get("HIVE_ACTIVE_KEY", "5HtuVwiWG1FveeyfXSKyRTW64endoxEsyFby3BuaZsbees5KWUA")
+HIVE_ACTIVE_KEY = os.environ.get("HIVE_ACTIVE_KEY_ETH", "")
 STATE_FILE = os.path.join(os.path.dirname(__file__), ".eth_state.json")
 
 

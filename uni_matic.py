@@ -105,9 +105,9 @@ from dotenv import load_dotenv
 
 load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
 # 🔐 Hive account
-HIVE_ACCOUNT = os.environ.get("HIVE_ACCOUNT", "peakecoin.matic")
+HIVE_ACCOUNT = os.environ.get("HIVE_ACCOUNT_MATIC", "peakecoin.matic")
 HIVE_POSTING_KEY = ""  # Not needed for trading
-HIVE_ACTIVE_KEY = os.environ.get("HIVE_ACTIVE_KEY", "5Jjp6U8jJBu82xnPteQa5M42Zd5nRCrD3PkyPwWmGBGu3yQubTa")
+HIVE_ACTIVE_KEY = os.environ.get("HIVE_ACTIVE_KEY_MATIC", "5Jjp6U8jJBu82xnPteQa5M42Zd5nRCrD3PkyPwWmGBGu3yQubTa")
 ACTIVE_KEY = HIVE_ACTIVE_KEY
 HIVE_NODES = ["https://api.hive.blog", "https://anyx.io"]
 TOKEN = os.environ.get("TOKEN", "SWAP.MATIC")
