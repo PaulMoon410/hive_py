@@ -1,0 +1,46 @@
+{
+  "launch": {
+    "terminal_mode": "inline",
+    "console_cols": 180,
+    "console_lines": 7000,
+    "clean_output": true,
+    "wait_for_cycle": true,
+    "cycle_timeout_seconds": 300,
+    "stagger_seconds_max": 8
+  },
+  "jobs": [
+    {
+      "name": "LTC-Account-A",
+      "script": "uni_ltc.py",
+      "currency": "SWAP.LTC",
+      "account": "account_a",
+      "active_key": "replace_with_active_key",
+      "enabled": true
+    },
+    {
+      "name": "BTC-Account-B",
+      "script": "uni_btc.py",
+      "currency": "SWAP.BTC",
+      "account": "account_b",
+      "active_key": "replace_with_active_key",
+      "enabled": true
+    },
+    {
+      "name": "MATIC-Account-C",
+      "script": "uni_matic.py",
+      "currency": "SWAP.MATIC",
+      "account": "account_c",
+      "active_key": "replace_with_active_key",
+      "enabled": true
+    },
+    {
+      "name": "PEK-Optional",
+      "script": "uni_pek.py",
+      "currency": "SWAP.PEK",
+      "account": "account_d",
+      "active_key": "replace_with_active_key",
+      "enable_pek_bot": true,
+      "enabled": false
+    }
+  ]
+}

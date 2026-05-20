@@ -1,0 +1,88 @@
+{
+  "accounts": {
+    "paulmoon410": {
+      "last_rc_percent": 99.9907,
+      "last_rc_ts": 1779235288,
+      "recharge_ema_per_sec": 3.6446810991362895e-06,
+      "attempts": 2012,
+      "successes": 2012,
+      "failures": 0,
+      "failure_streak": 0,
+      "cooldown_until": 0,
+      "last_mode": "high",
+      "last_reason": "rc high"
+    },
+    "peakecoin.bnb": {
+      "last_rc_percent": 99.6936,
+      "last_rc_ts": 1779234376,
+      "recharge_ema_per_sec": 0.0,
+      "attempts": 5,
+      "successes": 5,
+      "failures": 0,
+      "failure_streak": 0,
+      "cooldown_until": 0,
+      "last_mode": "high",
+      "last_reason": "rc high"
+    },
+    "mmoonn": {
+      "last_rc_percent": 98.5705,
+      "last_rc_ts": 1779235363,
+      "recharge_ema_per_sec": 0.0,
+      "attempts": 548,
+      "successes": 548,
+      "failures": 0,
+      "failure_streak": 0,
+      "cooldown_until": 0,
+      "last_mode": "high",
+      "last_reason": "rc high"
+    },
+    "strangedad": {
+      "last_rc_percent": 99.0685,
+      "last_rc_ts": 1779235321,
+      "recharge_ema_per_sec": 0.0,
+      "attempts": 210,
+      "successes": 210,
+      "failures": 0,
+      "failure_streak": 0,
+      "cooldown_until": 0,
+      "last_mode": "high",
+      "last_reason": "rc high"
+    },
+    "peakecoin.matic": {
+      "last_rc_percent": 99.5789,
+      "last_rc_ts": 1779234465,
+      "recharge_ema_per_sec": 0.0,
+      "attempts": 54,
+      "successes": 54,
+      "failures": 0,
+      "failure_streak": 0,
+      "cooldown_until": 0,
+      "last_mode": "high",
+      "last_reason": "rc high"
+    },
+    "dr-animation": {
+      "last_rc_percent": 97.6857,
+      "last_rc_ts": 1779235284,
+      "recharge_ema_per_sec": 0.0,
+      "attempts": 43,
+      "successes": 43,
+      "failures": 0,
+      "failure_streak": 0,
+      "cooldown_until": 0,
+      "last_mode": "high",
+      "last_reason": "rc high"
+    },
+    "peakecoin": {
+      "last_rc_percent": 99.7566,
+      "last_rc_ts": 1779234279,
+      "recharge_ema_per_sec": 0.0005816786690527559,
+      "attempts": 9,
+      "successes": 9,
+      "failures": 0,
+      "failure_streak": 0,
+      "cooldown_until": 0,
+      "last_mode": "high",
+      "last_reason": "rc high"
+    }
+  }
+}

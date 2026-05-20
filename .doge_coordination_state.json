@@ -1,0 +1,14 @@
+{
+  "pause_until": 0,
+  "paused": false,
+  "reason": "",
+  "updated_ts": 1779235343,
+  "profit_window": {
+    "phase": "ramp_up",
+    "current_ratio": 0.0005,
+    "hold_cycles_remaining": 0,
+    "last_realized_ratio": 0.0,
+    "last_market_spread_ratio": 0.0,
+    "pending_rebuy": null
+  }
+}

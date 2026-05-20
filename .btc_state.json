@@ -1,0 +1,27 @@
+{
+  "buy_distance": 0.01,
+  "sell_distance": 0.01,
+  "min_profit": 0.005,
+  "inventory_target": 0.5,
+  "order_stats": {
+    "true": {
+      "status": "open",
+      "submit_time": 1779235058.06478,
+      "side": "sell",
+      "price": 1261815.88851127,
+      "size": 3.7e-06
+    },
+    "true": {
+      "status": "open",
+      "submit_time": 1779235259.069054,
+      "side": "sell",
+      "price": 1260802.4078957,
+      "size": 2.96e-06
+    }
+  },
+  "fill_history": [],
+  "cancel_history": [],
+  "realized_pnl": 0.0,
+  "unrealized_pnl": 0.0,
+  "last_update": 1777076548.1435497
+}

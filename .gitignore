@@ -1,0 +1,14 @@
+# Ignore Python cache, environment, and secrets
+__pycache__/
+.env
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.DS_Store
+*.egg-info/
+.env.*
+# Ignore OS junk
+Thumbs.db

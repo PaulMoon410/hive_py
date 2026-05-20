@@ -1,0 +1,3198 @@
+{
+  "SWAP.LTC": [
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.53280973,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778302878
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.53280973,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778303214
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.53280973,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778303344
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.53280973,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778303578
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.52997999,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778303812
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.52997155,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778303946
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.53003166,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778304280
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.53002278,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778304414
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.52945448,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778304649
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.52945622,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778304883
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.52945344,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778305016
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.52946039,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778305251
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.52940661,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778305479
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.52228844,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778305708
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.50933745,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778305841
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.49639621,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778306071
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.4834653,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778306310
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.47051398,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778306444
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.45789357,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778306679
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.44507678,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778306915
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.43232997,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778307145
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.4323227,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778307274
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.60914736,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778307509
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.60794065,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778307637
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.5949877,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778307770
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.58203474,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778307904
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339944,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778308038
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339944,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778308171
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339944,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778308304
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339944,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778308432
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339944,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778308556
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778308648
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778308739
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778308831
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778308923
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778309015
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778309240
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339944,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778309470
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778309710
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778309839
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778310073
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778310197
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778310390
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778310583
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339944,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778310776
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778310868
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.57339933,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778310961
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.6161443,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311053
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.65846393,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311145
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.65846393,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311259
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.65846393,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311351
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.65846393,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311443
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.65932511,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311535
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 863.65932511,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311627
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.05103539,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311719
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.07266005,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311811
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.0942847,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311903
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311995
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778312087
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778312178
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778312271
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778312363
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778312455
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778312555
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778312647
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778312739
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778312830
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778312922
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778313014
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778313106
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778313199
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778313291
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778313383
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778313475
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778313567
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778313659
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778313751
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778313944
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778314137
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778314228
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778314422
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778314615
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778314709
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778314903
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778315098
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778315189
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778315382
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778315578
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778315812
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778315946
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778316175
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778316410
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778316644
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778316772
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778317010
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778317255
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778317388
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778317617
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778317751
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778317986
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778318215
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778318450
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778318578
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778318813
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778319043
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778319277
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778319513
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778319636
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.10292194,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778319849
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.09998927,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778319941
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.12161351,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778320033
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.14323777,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778320125
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 865.16490062,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778320217
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 872.1280878,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778320309
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 871.29500052,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778320401
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.46274267,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778320493
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.48449759,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778320585
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.50625251,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778320677
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.52800732,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778320769
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.54976233,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778320861
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.57151726,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778320953
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.61058359,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778321044
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.63233884,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778321137
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.65409408,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778321229
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.67584944,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778321321
+    },
+    {
+      "buy_price": 870.26247355,
+      "required_sell_price": 870.69760479,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778321420
+    },
+    {
+      "buy_price": 870.28731395,
+      "required_sell_price": 870.72245761,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778321520
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.54375923,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778325200
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 871.67636957,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778325291
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 871.67636957,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778325383
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 871.68279801,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778325475
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 871.68279801,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778325567
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.28000111,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778325649
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 871.66697833,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778325742
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 871.66697833,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778325834
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 871.66697833,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778325926
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.99211185,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326018
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.24289827,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326110
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.71098273,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326202
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.9384848,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326294
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.9251447,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326388
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.64979804,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326480
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.83724659,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326572
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.50782262,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326664
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.51704702,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326756
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.53876919,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326848
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.56050126,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326940
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.59497318,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778327032
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 868.75984294,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778327124
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 868.78154422,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778327216
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 868.80325526,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778327308
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 868.82496634,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778327400
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 868.84666751,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778327492
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 868.86837857,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778327584
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 868.90356461,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778327676
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 868.92526529,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778327768
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 868.94697671,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778327860
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 868.96868786,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778327952
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 868.99038948,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778328044
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.01210066,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778328135
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.03381187,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778328227
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.05552463,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778328320
+    },
+    {
+      "buy_price": 868.64290354,
+      "required_sell_price": 869.07722499,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778328419
+    },
+    {
+      "buy_price": 868.6645963,
+      "required_sell_price": 869.0989286,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778328519
+    },
+    {
+      "buy_price": 868.68629182,
+      "required_sell_price": 869.12063497,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778328619
+    },
+    {
+      "buy_price": 868.70797439,
+      "required_sell_price": 869.14232838,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778328718
+    },
+    {
+      "buy_price": 868.72966719,
+      "required_sell_price": 869.16403202,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778328818
+    },
+    {
+      "buy_price": 868.75131652,
+      "required_sell_price": 869.18569218,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778328918
+    },
+    {
+      "buy_price": 868.77298398,
+      "required_sell_price": 869.20737047,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778329018
+    },
+    {
+      "buy_price": 868.79465506,
+      "required_sell_price": 869.22905239,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778329117
+    },
+    {
+      "buy_price": 868.81631171,
+      "required_sell_price": 869.25071987,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778329217
+    },
+    {
+      "buy_price": 868.8379657,
+      "required_sell_price": 869.27238468,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778329317
+    },
+    {
+      "buy_price": 868.85962041,
+      "required_sell_price": 869.29405022,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778329417
+    },
+    {
+      "buy_price": 868.88122052,
+      "required_sell_price": 869.31566113,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778329517
+    },
+    {
+      "buy_price": 868.90283877,
+      "required_sell_price": 869.33729019,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778329617
+    },
+    {
+      "buy_price": 867.75862452,
+      "required_sell_price": 868.19250383,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778333236
+    },
+    {
+      "buy_price": 866.48495196,
+      "required_sell_price": 866.91819444,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778336847
+    },
+    {
+      "buy_price": 865.73360674,
+      "required_sell_price": 866.16647354,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778340508
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 871.81320994,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778342696
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 871.83499241,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778342788
+    },
+    {
+      "buy_price": 871.42106446,
+      "required_sell_price": 871.85677499,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778342888
+    },
+    {
+      "buy_price": 871.47150577,
+      "required_sell_price": 871.90724152,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778342987
+    },
+    {
+      "buy_price": 871.49327805,
+      "required_sell_price": 871.92902469,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778343087
+    },
+    {
+      "buy_price": 871.51505044,
+      "required_sell_price": 871.95080797,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778343187
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 869.96742816,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778346798
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 870.00202903,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778346891
+    },
+    {
+      "buy_price": 862.80564676,
+      "required_sell_price": 863.23704958,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778347025
+    },
+    {
+      "buy_price": 862.82720337,
+      "required_sell_price": 863.25861697,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778347125
+    },
+    {
+      "buy_price": 862.84875985,
+      "required_sell_price": 863.28018423,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778347227
+    },
+    {
+      "buy_price": 862.87031625,
+      "required_sell_price": 863.30175141,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778347328
+    },
+    {
+      "buy_price": 871.20020553,
+      "required_sell_price": 871.63580563,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778348894
+    },
+    {
+      "buy_price": 871.36422606,
+      "required_sell_price": 871.79990817,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778349013
+    },
+    {
+      "buy_price": 871.39149551,
+      "required_sell_price": 871.82719126,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778349114
+    },
+    {
+      "buy_price": 871.40790365,
+      "required_sell_price": 871.8436076,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778349513
+    },
+    {
+      "buy_price": 871.42966621,
+      "required_sell_price": 871.86538104,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778349614
+    },
+    {
+      "buy_price": 871.45142888,
+      "required_sell_price": 871.88715459,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778349715
+    },
+    {
+      "buy_price": 871.47319143,
+      "required_sell_price": 871.90892803,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778349816
+    },
+    {
+      "buy_price": 869.70429708,
+      "required_sell_price": 870.13914923,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1778353469
+    },
+    {
+      "buy_price": 952.8736012,
+      "required_sell_price": 953.350038,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1779233962
+    },
+    {
+      "buy_price": 953.1959087,
+      "required_sell_price": 953.67250665,
+      "qty": 1e-08,
+      "result": "placed",
+      "txid": "True",
+      "timestamp": 1779234853
+    }
+  ],
+  "SWAP.BNB": [
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 9688.46050107,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778208110
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 9883.19855713,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778351631
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 9112.05190889,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234381
+    }
+  ],
+  "SWAP.MATIC": [
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.50852356,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778208172
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.50536198,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778209696
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.50206701,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778211252
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.5085035,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778218611
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52747504,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778222266
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.527467,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778225917
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52745895,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778229573
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.5274509,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778236446
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52427959,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778238017
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52109652,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778239589
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.51805299,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778241165
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.51499648,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778246338
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52667584,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778260777
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52667584,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778264412
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52667584,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778268045
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52667584,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778271680
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52667584,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778275357
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52666598,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778279030
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52665613,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778282702
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52664628,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778286337
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52664628,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778290015
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52663644,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778293664
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52663644,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778297307
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52663644,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778300941
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52663644,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778304607
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52662661,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778311843
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52662661,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778315476
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52662661,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778319149
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52661678,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778322783
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52661678,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778326421
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52647225,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778330055
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52647225,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778333688
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52647225,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778348130
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.52244568,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778351765
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.51850054,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778355400
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1.07688029,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234470
+    }
+  ],
+  "SWAP.ETH": [
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34084.21406156,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778212782
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34079.10745861,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778212904
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34428.0600114,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778225385
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34425.85925148,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778225499
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34392.084386,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778235380
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34390.62986732,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778235508
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34391.84651761,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778239507
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34385.16156188,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778246971
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34384.47701347,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778254439
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34383.4707306,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778254572
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34353.67947742,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778265650
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34384.47701345,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778269414
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34384.47701345,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778269510
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34430.31810235,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778280631
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34430.31810235,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778284441
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34430.31810235,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778291913
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34430.31810235,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778292010
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34430.31810235,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778299435
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34430.31810235,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778303298
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 34771.52255473,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778314490
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 24790.6956185,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234049
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 24585.86341659,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234198
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 24385.40360516,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234361
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 24178.82513574,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234533
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 23976.82987024,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234700
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 23774.57047964,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234850
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 23567.71451528,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779235012
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 23365.58960181,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779235172
+    }
+  ],
+  "SWAP.BTC": [
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200858.35492219,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778218363
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200858.35492217,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778218486
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200858.35492205,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778218610
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200497.65546551,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778222398
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200145.57116485,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778222519
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1199802.0387005,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778222640
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1199466.50176106,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778222760
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1199138.50213354,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778222876
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1199017.43917396,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778226669
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198898.8522529,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778226789
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198782.68667103,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778226909
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198668.88773829,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778227025
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198670.06706148,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778230818
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198560.10031319,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778230940
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198452.72284923,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778231060
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198347.87073522,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778231183
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198560.10031319,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778235001
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198560.10031319,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778235133
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198560.10031319,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778235245
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198421.01651636,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778239813
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198284.61967286,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778239960
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198150.8711561,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778240106
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1198019.88846915,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778240259
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1197891.66626181,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778240411
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1197765.89800618,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778240561
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1197890.40857846,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778244374
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1197889.16347274,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778244524
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1197887.93081807,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778244674
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1197886.67630598,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778244826
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200858.35492243,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778248639
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200827.43035327,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778248798
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188955.8492027,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778252609
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188943.30703013,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778252760
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188931.03541785,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778252905
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188919.02819008,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778253051
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188907.27931313,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778253191
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188919.02819008,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778256955
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188919.02819008,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778257060
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188919.02819008,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778257165
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188919.02819008,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778257273
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188919.02819008,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778257377
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188919.02819008,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778257482
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188919.02819008,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778257578
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188930.91534567,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778261343
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188930.79813862,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778261447
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188930.68372664,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778261552
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188930.57203987,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778261657
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188930.46301525,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778261761
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188930.35658625,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778261865
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188968.28618798,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778265632
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188967.91361303,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778265736
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188967.55028026,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778265840
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188967.19596492,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778265933
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188967.20122615,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778266025
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188967.20639637,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778266118
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188967.21147413,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778266210
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188968.32323738,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778266303
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188968.32829435,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778266395
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188968.33325021,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778266487
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188968.66824003,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778270252
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188968.66824003,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778270356
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188968.24960112,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778270460
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188967.84034191,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778270565
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188967.44145973,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778270670
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188967.05254665,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778270766
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200827.43035327,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778274579
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200827.43035327,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778274731
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200827.43035327,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778274873
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200733.92402332,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778278687
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200611.69334907,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778278840
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200491.50279684,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778278991
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200373.31395937,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778279130
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188968.66824003,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778282944
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188968.66824003,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778283096
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1188968.66824003,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778283365
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200374.06053013,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778298113
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200258.94454053,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778298217
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984315,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778298334
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200037.82194159,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778298539
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984314,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778302562
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984314,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778302718
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984313,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778302860
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984314,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778306778
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984314,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778306929
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984313,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778307079
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984313,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778314718
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984313,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778314823
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984312,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778314927
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984312,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778315032
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984312,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778315242
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984311,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778319156
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984311,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778319413
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.2098431,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778323178
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.2098431,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778323282
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.2098431,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778323493
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984312,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778331025
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984312,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778331129
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984312,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778331341
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984312,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778331552
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984312,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778331656
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200146.20984315,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778331859
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1212163.65534638,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778335670
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1212044.97427784,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778335818
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1211928.93719388,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778335969
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1211815.4823783,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778336109
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1211704.54933308,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778339915
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1211595.98366517,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778340065
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1200969.55383288,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778340207
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1211481.53588343,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778343971
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1211369.49532346,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778344075
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1211259.77244012,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778344180
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1211152.31920095,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778344284
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1211044.92948605,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778344499
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1201364.86911729,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778352120
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1201364.86907176,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778352336
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1201364.8690272,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778352442
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1201364.86899052,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778352655
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1201364.86895462,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778352875
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1201364.86891947,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778352981
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1263729.20913377,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234164
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1263834.78466557,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234312
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1263897.38750466,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234454
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1263908.60015747,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234594
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1262839.75280097,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234738
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1262851.1203328,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234905
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1261815.88851127,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779235058
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 1260802.4078957,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779235259
+    }
+  ],
+  "SWAP.HBD": [
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 14.46012382,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778265208
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 14.45831864,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778351667
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 14.45366056,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1778355333
+    },
+    {
+      "buy_price": 0.0,
+      "required_sell_price": 16.86546878,
+      "qty": 1e-08,
+      "result": "skipped",
+      "txid": null,
+      "timestamp": 1779234286
+    }
+  ]
+}
