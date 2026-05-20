@@ -52,12 +52,26 @@ def stream():
                     time.sleep(0.5)
     return Response(event_stream(), mimetype="text/event-stream")
 
+class TeeStream:
+    def __init__(self, *streams):
+        self.streams = streams
+    def write(self, data):
+        for s in self.streams:
+            s.write(data)
+            s.flush()
+    def flush(self):
+        for s in self.streams:
+            s.flush()
+
 def run_dashboard():
-    # Redirect stdout/stderr to log file
+    # Tee output to both log file and original stdout/stderr
     with open(LOG_FILE, "a") as f:
-        sys.stdout = f
-        sys.stderr = f
-        dashboard.main()
+        sys.stdout = TeeStream(sys.__stdout__, f)
+        sys.stderr = TeeStream(sys.__stderr__, f)
+        try:
+            dashboard.main()
+        except Exception as e:
+            print(f"[WEB TERMINAL] Dashboard thread crashed: {e}")
 
 if __name__ == "__main__":
     # Start dashboard in a background thread
